@@ -6,7 +6,7 @@
 .banner {
     display: flex;
     justify-content: space-around;
-    height: 75vh;
+    height: 70vh;
     align-items: center;
     background-position: center;
     background-size: cover;
@@ -20,7 +20,7 @@
 
 .banner-image {
     width: 400px;
-    height: 650px;
+    height: 640px;
     margin-top: 20px;
 }
 
@@ -94,7 +94,7 @@
 .box-one {
     width: 300px;
     height: 400px;
-    background-color: aquamarine;
+    background-color: bisque;
     border-top-left-radius: 150px;
     border-top-right-radius: 150px;
     justify-content: center;
@@ -103,7 +103,7 @@
 .box-two {
     width: 300px;
     height: 400px;
-    background-color: khaki;
+    background-color: pink;
     border-top-left-radius: 150px;
     border-top-right-radius: 150px;
     justify-content: center;
@@ -114,7 +114,7 @@
 .box-three {
     width: 300px;
     height: 400px;
-    background-color: cornflowerblue;
+    background-color: rgb(228, 207, 178);
     border-top-left-radius: 150px;
     border-top-right-radius: 150px;
     justify-content: center;
