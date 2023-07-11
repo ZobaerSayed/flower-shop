@@ -36,6 +36,18 @@
     border: none;
 }
 
+
+
+
+
+
+
+
+
+.btn:hover {
+    color: blue;
+}
+
 .title {
     font-size: 60px;
     font-family: Arial, Helvetica, sans-serif;
@@ -132,6 +144,32 @@
     margin-bottom: 55px;
 }
 
+.deal {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    background-color: moccasin;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+#info {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+#info-ch {
+    color: cornflowerblue;
+}
+
+#info-parag {
+    font-size: 10px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
 .background-container {
     display: flex;
     width: 80%;
@@ -143,7 +181,7 @@
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     align-items: center;
 
 }
@@ -163,4 +201,46 @@
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding-left: 440px;
+}
+
+.flower-tub {
+    width: 250px;
+}
+
+#footerp {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#reserved {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+#footer-head {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 55px;
+    text-align: center;
+}
+
+#footer1 {
+    color: rgb(89, 89, 218);
+}
+
+.footer {
+    margin-left: 550px;
+}
+
+.main {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 240px;
+    background-color: black;
+    color: white;
+    text-align: center;
 }
