@@ -25,7 +25,7 @@
 }
 
 .btn {
-    padding: 15px 25px;
+    padding: 13px 25px;
     font-family: Arial, Helvetica, sans-serif;
     background-color: tomato;
     font-size: 25px;
@@ -130,4 +130,37 @@
     justify-content: center;
     gap: 30px;
     margin-bottom: 55px;
+}
+
+.background-container {
+    display: flex;
+    width: 80%;
+    height: 350px;
+    margin: auto;
+    background-image: url("./Flower Asset/Rectangle\ 9.png"), linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1));
+    background-blend-mode: overlay;
+    border-radius: 5px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+    align-items: center;
+
+}
+
+.boson {
+    width: 660px;
+    height: 55px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border: none;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.heading {
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 440px;
 }
