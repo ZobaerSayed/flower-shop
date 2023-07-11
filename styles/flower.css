@@ -149,7 +149,7 @@
     justify-content: space-around;
     align-items: center;
     height: 400px;
-    background-color: moccasin;
+    background-color: rgb(231, 236, 241);
     text-align: center;
     margin-bottom: 55px;
 }
@@ -157,6 +157,7 @@
 #info {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
+
 }
 
 #info-ch {
@@ -205,6 +206,7 @@
 
 .flower-tub {
     width: 250px;
+    margin-right: 200px;
 }
 
 #footerp {
